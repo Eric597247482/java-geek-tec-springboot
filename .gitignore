@@ -1,0 +1,15 @@
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+*.class
