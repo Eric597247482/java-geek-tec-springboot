@@ -4,19 +4,6 @@ target/
 !**/src/main/**
 !**/src/test/**
 
-# maven ignore
-target/
-*.jar
-*.war
-*.zip
-*.tar
-*.tar.gz
-*.cmd
-*mvnw
-.mvn/
-
-*.class
-
 ### STS ###
 .apt_generated
 .classpath
@@ -27,7 +14,6 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea/
 .idea
 *.iws
 *.iml
